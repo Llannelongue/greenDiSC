@@ -55,7 +55,7 @@ We’re glad that your group is taking the first steps towards more environmenta
 
 The objective of the application phase for either Bronze, Silver, or Gold is to document the activities and initiatives that your group has done and is doing to tackle the environmental impact of your work. Using the Green DiSC criteria as a roadmap, identify the initiatives, policies, processes, and inventory hardware, data resources, computing pipelines, and training materials to understand and show where your group is currently and where there is still room for improvement.
 
-If your central team is also doing Green DiSC, they will be able to provide you with answers for quite a few criteria (for which the answers are the same across the institution), making it easier for you. That’s the benefit of doing both central teams and group-level Green DiSC\!
+If your central team is also doing Green DiSC, they will be able to provide you with answers for quite a few criteria (for which the answers are the same across the institution), making it easier for you. That’s the benefit of doing both central teams and group-level Green DiSC!
 
 The best place for any questions about the criteria, or how to implement them, is the [ESCS forum](https://forum.escs-community.org). And why not have a look in case you can answer questions from others?
 
