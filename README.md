@@ -12,7 +12,7 @@ Green DiSC is the first open access certification scheme which provides a roadma
 
 **More on the Green DiSC website: https://www.software.ac.uk/GreenDiSC**
 
->[!INFO]
+>[!NOTE]
 > The GitHub repo contains the guideline documents as well as the criteria.
 
 ## Contributing
