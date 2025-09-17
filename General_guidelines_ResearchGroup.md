@@ -1,7 +1,7 @@
+# Welcome to the Green DiSC Guidelines for Research Group Applicants!
+
 > [!NOTE]
 > Last updated 17 Sept 2025 by Loïc Lannelongue and Anica Araneta
-
-# Welcome to the Green DiSC Guidelines for Research Group Applicants\!
 
 We’re thrilled to have you join the community of research groups and institutions tackling the environmental impacts of their computing activities.
 
@@ -61,10 +61,10 @@ The best place for any questions about the criteria, or how to implement them, i
 
 ### How do I fill up the Criteria and Submission Template? 
 
-The Criteria and Submission Template has three sections to fill up: the cover page, the tracker, and the submission template for each criterion. The cover letter summarises key information about the applicant which you should complete before submitting your application. The tracker allows you to monitor the status of each criterion as you and your team accomplish the criteria over a period of time, as well as allow you to assign different parts of the application to members of your team. Filling this up is completely optional, but it may help you track your progress if you take long breaks between criteria. Finally, the criteria and submission template \- the main bulk of this document \-  will contain your responses and supporting evidence for the criteria.
+The Criteria and Submission Template has three sections to fill up: the cover page, the tracker, and the submission template for each criterion. The cover letter summarises key information about the applicant which you should complete before submitting your application. The tracker allows you to monitor the status of each criterion as you and your team accomplish the criteria over a period of time, as well as allow you to assign different parts of the application to members of your team. Filling this up is completely optional, but it may help you track your progress if you take long breaks between criteria. Finally, the criteria and submission template - the main bulk of this document -  will contain your responses and supporting evidence for the criteria.
 
 > [!TIP]
-> **Watch out for this symbol\!  📣** If you see this symbol on a criterion, this means that you should be able to ask your central team (if they have or are also applying to Green DiSC) about the evidence they’ve provided for that criterion and what additional information you can provide for your application as a group. In this case, you may not have to do much to tick this box.
+> **Watch out for this symbol!  📣** If you see this symbol on a criterion, this means that you should be able to ask your central team (if they have or are also applying to Green DiSC) about the evidence they’ve provided for that criterion and what additional information you can provide for your application as a group. In this case, you may not have to do much to tick this box.
 
 ### How do I provide sufficient detail for each criterion? 
 
@@ -72,7 +72,7 @@ When filling out the responses, provide clear and complete but succinct answers 
 
 ### How do I submit?
 
-Make sure to take note of the next deadline for submission (check the [webpage](https://www.software.ac.uk/GreenDiSC) for updates\!). When you’re ready to submit, save this file as a .docx file and email it to us with your supporting documents at \<[info@greendisc.org](mailto:info@greendisc.org)\>. Once we receive it, expect an acknowledgement email confirming your submission.
+Make sure to take note of the next deadline for submission (check the [webpage](https://www.software.ac.uk/GreenDiSC) for updates!). When you’re ready to submit, save this file as a .docx file and email it to us with your supporting documents at [info@greendisc.org](mailto:info@greendisc.org). Once we receive it, expect an acknowledgement email confirming your submission.
 
 # What happens after submission? 
 
