@@ -21,7 +21,7 @@ Any feedback and suggestions on the guidelines or criteria are very welcome. You
 
 ## Licence
 
-All the material related to Green DiSC is covered by a [CC-BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LISENSE.txt](LICENSE.txt)
+All the material related to Green DiSC is covered by a [CC-BY-NC-ND 4.0 licence](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LISENCE.txt](LICENCE.txt)
 
 ## The team behind it
 
