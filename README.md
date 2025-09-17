@@ -13,11 +13,11 @@ Green DiSC is the first open access certification scheme which provides a roadma
 **More on the Green DiSC website: https://www.software.ac.uk/GreenDiSC**
 
 >[!NOTE]
-> The GitHub repo contains the guideline documents as well as the criteria.
+> This GitHub repo contains the [guideline documents](/General%20guidelines/) as well as the [criteria](/Criteria/). It also include the [data management policy](/Data_management_and_privacy.md).
 
 ## Contributing
 
-Any feedback and suggestions are very welcome. You can either open an issue on GitHub, or even better, suggest edits through a pull request! 
+Any feedback and suggestions on the guidelines or criteria are very welcome. You can either open an issue on GitHub, or even better, suggest edits directly through a pull request! 
 
 ## Licence
 
