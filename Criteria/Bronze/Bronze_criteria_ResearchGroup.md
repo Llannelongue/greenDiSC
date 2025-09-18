@@ -1,4 +1,4 @@
-# Bronze criteria for research groups
+# Bronze Criteria for Research Groups
 
 ## Green DiSC Representative
 
