@@ -16,34 +16,26 @@ A member of staff takes on the responsibility, and makes sure to pass it on when
 ### Acceptable Evidence
 Contact details of the DiSC representative, inclusion of this in their job description and/or their institutional profile page. 
 
+## Computing sustainability in induction procedures 
+
+![Category general](https://img.shields.io/badge/category-general-blue)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RG)%20G2--B-white)
+
+There is induction material available to all new starters to emphasise the importance of adopting efficient and sustainable practices from day one.
+
+### Why? 
+While there may be a substantial amount of information for new starters, it is crucial that efficient and sustainable practices are emphasised on arrival. It is during this period of initiation that people are most impressionable, despite there being a lot of new information. 
+
+### How? 
+Sustainability induction procedures can be provided by the central team, or inspired from examples in other institutions. Sustainable practices should not be separate, but rather fully integrated into induction materials. This refers to training about digital and computing sustainability, not generic campus sustainability efforts. Some resources used/shared by others include the [Green Software Practitioner Course](https://learn.greensoftware.foundation/) and the [Green HPC system use](https://epcced.github.io/2025-07-02_GreenHPC_UCL/). 
+
+### Acceptable evidence: 
+Material and evidence of it being used. Provide detail on how these are disseminated and made accessible to new starters. 
+
+*📣 Ask your Central Team! If your central team has applied or is applying to Green DiSC as well, you should be able to ask them about the evidence they provided for this criterion and what relevant information is available for you to include in your application.*
+
 
 <!-- Criteria below need to be adapted the same way -->
-
-
-Category: General | Criteria ID: (RG) G2-B
-
-## Computing sustainability in induction procedures {#computing-sustainability-in-induction-procedures}
-
----
-
-#### There is induction material available to all new starters to emphasise the importance of adopting efficient and sustainable practices from day one.
-
-| Why? While there may be a substantial amount of information for new starters, it is crucial that efficient and sustainable practices are emphasised on arrival. It is during this period of initiation that people are most impressionable, despite there being a lot of new information. How? Sustainability induction procedures can be provided by the central team, or inspired from examples in other institutions. Sustainable practices should not be separate, but rather fully integrated into induction materials. This refers to training about digital and computing sustainability, not generic campus sustainability efforts. Some resources used/shared by others include the [Green Software Practitioner Course](https://learn.greensoftware.foundation/) and the [Green HPC system use](https://epcced.github.io/2025-07-02_GreenHPC_UCL/). Acceptable evidence: Material and evidence of it being used. Provide detail on how these are disseminated and made accessible to new starters. 📣Ask your Central Team\! If your central team has applied or is applying to Green DiSC as well, you should be able to ask them about the evidence they provided for this criterion and what relevant information is available for you to include in your application. |
-| :---- |
-
-| To be filled by Green DiSC Applicant only |  |
-| ----- | :---- |
-| How did you complete this criterion? |  |
-| Evidence provided to support this criteria (e.g. file names of supporting documents attached, or links to resources) |  |
-| Any other comments? |  |
-
-| What did you find challenging about this criterion? What still needs to be improved on moving forward? *Optional* |  |
-| :---- | :---- |
-
-| To be filled by Peer Reviewer only |  | To be filled by Green DiSC Applicant only |
-| ----- | :---- | ----- |
-| Passed? Yes / Pending | Comments | Revisions (if any) |
-|  |  |  |
 
 ## 
 
