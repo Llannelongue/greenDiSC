@@ -108,7 +108,7 @@ List of waste streams with information on what happens to hardware, including e-
 
 ## Data storage solutions inventory
 
-![Category general](https://img.shields.io/badge/category-data&20storage-red)
+![Category general](https://img.shields.io/badge/category-data%20storage-red)
 ![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20DS1--B-white)
 
 There is a list of data storage options available to the institution and separate research groups, with information on which options are available for (large) data storage and, in particular, which are user’s responsibility versus which are centrally managed. User-responsible data storage could look like local drives on computers and hard drives, while centrally managed data storage can include cloud storage and shared drives.
