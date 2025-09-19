@@ -16,8 +16,7 @@ A member of staff takes on the responsibility, and makes sure to pass it on when
 ### Acceptable Evidence
 Contact details of the DiSC representative, inclusion of this in their job description and/or their institutional profile page. 
 
-
-## Computing sustainability in induction procedures
+## Computing sustainability in induction procedures 
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
 ![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RG)%20G2--B-white)
