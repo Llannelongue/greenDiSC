@@ -83,6 +83,10 @@ When filling out the responses, provide clear and complete but succinct answers 
 
 Make sure to take note of the next deadline for submission (check the [webpage](https://www.software.ac.uk/GreenDiSC) for updates\!). When you’re ready to submit, save this file as a .docx file and email it to us with your supporting documents at [info@greendisc.org](mailto:info@greendisc.org). Once we receive it, expect an acknowledgement email confirming your submission.
 
-# What happens after submission? 
+### What happens after submission? 
 
 After the deadline, we will allocate peer reviewers for your application and give everyone a few weeks to complete the reviews. Then we will give you sufficient time to respond to your reviewers’ comments and make required adjustments (if any), and the final outcome will be communicated to you around 3 months after the deadline, with certificates awarded shortly after.
+
+# How long is the certification valid for? 
+
+Teams are expected to apply for recertification 2 years after their last audit. The recertification process will be of course lighter touch, mostly to check that the actions are still in place and align with updated criteria. The Green DiSC team will be publishing guidelines on the recertification process in the coming months.
